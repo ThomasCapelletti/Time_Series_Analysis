@@ -4,6 +4,9 @@ Through the analysis of this time series, we tried to define how debt affects a 
 The study explored relationships between debt levels, growth rates, and macroeconomic stability, highlighting key differences between the two economic contexts. 
 Findings provided insights into sustainable debt thresholds and their implications for fiscal policy, offering guidance for policymakers in balancing growth and debt management strategies.
 
-The folder contains the formatted CSV files used, the respective R files with analyses and indicators, and a PDF file with a summary presentation of the entire project with the most interesting insights and conclusions.
+The folder contains:
+- The formatted CSV files used.
+- The respective R files with analyses and indicators.
+- APDF file with a summary presentation of the entire project with the most interesting insights and conclusions.
 
 
