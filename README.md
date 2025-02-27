@@ -7,6 +7,6 @@ Findings provided insights into sustainable debt thresholds and their implicatio
 The folder contains:
 - The formatted CSV files used.
 - The respective R files with analyses and indicators.
-- APDF file with a summary presentation of the entire project with the most interesting insights and conclusions.
+- A PDF file with a summary presentation of the entire project with the most interesting insights and conclusions.
 
 
